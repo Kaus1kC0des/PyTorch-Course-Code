@@ -1,0 +1,14 @@
+*.zip
+*.jpeg
+*.png
+*.jpg
+*.pt
+*.pth
+*.ipynb_checkpoints
+.ipynb_checkpoints
+.idea
+data/
+demos/
+extras/pytorch_2_results/
+models/
+going_modular/models/
